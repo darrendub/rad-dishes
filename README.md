@@ -6,4 +6,4 @@ Rad dishes is a challenge to learn how to cook by making one dish a week.
 * Words written by [Darren](http://github.com/darrendub)
 * Site built with Jekyll
 
-View site (http://github.com/darrendub/rad-dishes)
+[View site] (http://github.com/darrendub/rad-dishes)
