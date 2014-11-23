@@ -3,17 +3,16 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Rad Dishes
+tagline:          
+url:              http://rad-dish.es
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Darren Wong
+  url:            https://twitter.com/darrendub
+  email:          darrendavenwong@gmail.com
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+# Navigation Elements
+pages_list:       
+  About: '/about'         
