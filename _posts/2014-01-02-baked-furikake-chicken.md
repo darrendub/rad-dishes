@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Baked Furikake Chicken
+permalink: baked-furikake-chicken
 ---
 
 ![Baked Furikake Chicken]({{ site.baseurl }}assets/img/furikake-chicken/furikake-1.jpg "Baked Furikake Chicken")
