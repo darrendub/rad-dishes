@@ -6,8 +6,8 @@ relative_permalinks: true
 title:            Rad Dishes
 tagline:          
 url:              http://rad-dish.es
-paginate:         1
-baseurl:          /
+paginate:         
+url:          	  http://darrendnub.github.io/rad-dishes
 author:
   name:           Darren Wong
   url:            https://twitter.com/darrendub
