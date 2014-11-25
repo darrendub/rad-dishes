@@ -15,4 +15,4 @@ author:
 
 # Navigation Elements
 pages_list:       
-  About: '/about'         
+  About: '{{ site.baseurl }}/about'         
