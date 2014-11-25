@@ -7,7 +7,7 @@ title:            Rad Dishes
 tagline:          
 url:              http://rad-dish.es
 paginate:         
-baseurl:          /project-name
+baseurl:          /rad-dishes
 author:
   name:           Darren Wong
   url:            https://twitter.com/darrendub
