@@ -4,7 +4,7 @@ title: Baked Furikake Chicken
 permalink: baked-furikake-chicken
 ---
 
-![Baked Furikake Chicken]({{ site.baseurl }}assets/img/furikake-chicken/furikake-1.jpg "Baked Furikake Chicken")
+![Baked Furikake Chicken]({{ site.baseurl }}/assets/img/furikake-chicken/furikake-1.jpg "Baked Furikake Chicken")
 
 ### About
 This is my favorite dish from my childhood, every time I'm home my Mother prepares this dish, at least once. With her blessings I sought to re-create this dish baking instead of frying.
