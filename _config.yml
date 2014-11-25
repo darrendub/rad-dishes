@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Rad Dishes
 tagline:          
 url:              http://rad-dish.es
-paginate:         
+paginate:         3
 baseurl:          /rad-dishes
 author:
   name:           Darren Wong
